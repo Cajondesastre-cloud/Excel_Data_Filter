@@ -1,2 +1,2 @@
-Ejemplo de uso desde consola con un archivo excel dado, que debe estar en el mismo directorio que el archivo de python:
 Filtro.py -r prueba.xlsx -c currentUse 1_residential -t 1
+Filtro.py -r prueba2.xlsx -a currentUse 1_residential CUSEC
